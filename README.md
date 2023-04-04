@@ -1,1 +1,1 @@
-# template-ui-layer
+# UI Core Layer
