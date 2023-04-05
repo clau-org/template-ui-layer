@@ -5,8 +5,5 @@ export default defineNuxtConfig({
   /**
    * Environment shared with the CLIENT
    */
-  extends: [
-    '@clau-org/ui-core'
-  ],
-  
+  extends: ['@clau-org/ui-core'],
 })

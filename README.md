@@ -2,10 +2,10 @@
 
 ## Install dependencies
 
-To install the dependecies run  :
+To install the dependecies run :
 
 ```
-npm i 
+npm i
 ```
 
 ## Development
@@ -39,6 +39,7 @@ To build the playground using the layer run:
 ```
 npm run build
 ```
+
 ## Preview
 
 To preview the playground using the layer run:
@@ -60,7 +61,7 @@ To use the layer in any nuxt > 3 proyect
 
 ```ts
 
-// install 
+// install
 npm i @clau-org/ui-<NAME>@latest
 
 // nuxt.config

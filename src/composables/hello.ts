@@ -1,3 +1,3 @@
 export function hello() {
-  return "Hello from <NAME>"
+  return 'Hello from <NAME>'
 }

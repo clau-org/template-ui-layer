@@ -1,9 +1,7 @@
 <template>
   <div class="bg-red-500">
-   {{hello()}}
+    {{ hello() }}
   </div>
 </template>
 
-<script setup>
-  
-</script>
+<script setup></script>
