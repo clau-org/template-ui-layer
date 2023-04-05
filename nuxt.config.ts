@@ -5,10 +5,6 @@ export default defineNuxtConfig({
   /**
    * Environment shared with the CLIENT
    */
-
-  nitro: {
-    preset: 'deno'
-  },
   extends: [
     '@clau-org/ui-core'
   ],

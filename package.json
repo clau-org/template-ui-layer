@@ -1,5 +1,5 @@
 {
-  "name": "@clau-org/ui-core",
+  "name": "@clau-org/ui-<NAME>",
   "type": "module",
   "version": "0.0.14",
   "main": "./nuxt.config.ts",
